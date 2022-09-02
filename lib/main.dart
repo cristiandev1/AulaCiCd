@@ -48,6 +48,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
+  bool _teste = false;
   int _counter = 0;
 
   void _incrementCounter() {
